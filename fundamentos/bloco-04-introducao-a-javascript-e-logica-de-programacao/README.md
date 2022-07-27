@@ -25,7 +25,7 @@ O resultado do código acima é:
 type Fiat
 model 500
 color white
-
+#
 
 #### for/of
 
